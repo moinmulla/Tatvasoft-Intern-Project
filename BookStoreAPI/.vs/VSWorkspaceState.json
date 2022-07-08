@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BookStore",
+    "\\BookStore.Models\\ViewModels",
+    "\\BookStore.Repository",
+    "\\BookStore\\Controllers"
+  ],
+  "PreviewInSolutionExplorer": false
+}
